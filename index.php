@@ -23,7 +23,7 @@
     <meta name="author" content="">
 
     <link rel="icon" href="logo.png">
-    <title>SMART HYDROPONICS</title>
+    <title>SMART-HYDROPONICS</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
